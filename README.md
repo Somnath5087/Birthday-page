@@ -73,7 +73,7 @@
                 <div class="card">
                     <h1>🎉 To The Most Beautiful Girl! 🎉</h1>
                     <!-- Image Centered -->
-                    <img src="Image/Preethi.JPG" alt="Preethi's Picture" class="img-fluid">
+                    <img src="Preethi.JPG" alt="Preethi's Picture" class="img-fluid">
                     <p>
                         To my biggest blessing, the strongest, the most beautiful girl I know! You inspire me every single day with your courage and resilience. I promise to always stand by your side, cheering you on in everything you do. Here's to celebrating you today and always!
                     </p>
@@ -81,7 +81,7 @@
                     <h1 class="heart">❤️</h1>
                     <p>- Somnath</p>
                     <audio controls>
-                        <source src="audio/aud.mp3" type="audio/mpeg">
+                        <source src="aud.mp3" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>
                 </div>
